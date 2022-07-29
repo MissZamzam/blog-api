@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Our Summer Trip to England and Ireland",
+      "body": "When planning trips, I’m usually a research nerd who LOVES making painstakingly slow decisions about hotels and Airbnbs. But! The boys and I had stumbled across a YouTube video of the staff of the Killarney Park Hotel singing the Beauty and the Beast song “Be Our Guest.” We were immediately sold.Next we headed to Dingle, a small fishing town in southwest Ireland. The brightly colored shops were so charming, and everyone was beyond friendly. Above are the boys doing our daily stop for Murphy’s Ice Cream, which is handmade in Dingle with milk from local grass-fed cows.",
+      "author": "Joanna Goddard"
+    },
+    {
+      "id": 2,
+      "title": "Fashion & Enviroment",
+      "body": "The drop in garment prices over the last 20 years has allowed us to buy more and more clothes. We now have 5 times more clothes than our grandparents had. It felt great until we found out what was hiding behind this trend In reality, this continuous accumulation of cheap garments is only possible because of a constant reduction of production costs. This, in turn, has serious consequences on our health, our planet, and on garment workers lives.",
+      "author": "Simpson Jerry"
+    },
+    {
+      "id": 3,
+      "title": "I found my favorite Café in Barcelona – thanks to a book!",
+      "body": "I dislike entering book shops. Every time I walk into a book shop, I will end up buying one.I entered an international bookshop in Eixample, Barcelona, while looking for some cool things to do in Barcelona. And as expected, a book named „The dead alleys of Barcelona“ got my attention, a crime novel. Long story shot: I bought it, went home, and started reading.In this book, the author Stefanie Kremser talks about a special part of El Born, downtown Barcelona. She describes this magical square, this narrow street the main character lived in.I didn’t know this exact street, and I was curious. I went downtown, wandered around the square and saw this café with the few tables on the terrace. Until today, 7 years later, it is still my favorite café in Barcelona – thanks to this book!",
+      "author": "Matt J"
+    },
+    {
+      "id": 4,
+      "title": "Fast food:Its nutrition and impacts",
+      "body": "Fast food tends to be high in salt, sugar, saturated fats, trans fats, calories, and processed preservatives and ingredients. A wealth of well-conducted research has proven the negative health effects of consuming too much of these food components.In the short term, fast food impacts blood sugar and blood pressure, increases inflammation, and may mean an individual does not eat enough necessary nutrients. In the long term, a diet rich in fast food could lead to issues with digestion, immunity, inflammation, heart health, obesity, and more.",
+      "author": "Timothy Huzar"
+    },
+    {
+      "id": 5,
+      "title": "What Was Your First Job?",
+      "body": "When I was 15, my mom cut me off from “going-out money.” At that age, I knew that keeping up my mall-rat lifestyle was a non-negotiable, so, to fund Auntie Anne’s pretzel runs, I needed to find a job. First, I applied to all the cool stores — Zumiez, Claire’s, Hot Topic, Hollister — but sadly, none of them would hire someone under the age of 16. So, instead, my first job was at…Togo’s, my neighborhood’s sandwich shop.On my first day, I showed up in uniform: an army green T-shirt, khaki apron, and khaki visor. My main responsibilities were to welcome customers and build hefty deli sandwiches. For the next few hours, I muddled my way through meeting co-workers, bantering with customers, and memorizing 30 recipes. I left the shift feeling overwhelmed, like the tiniest fish in a very big pond.",
+      "author": "Jannelle Sanchez"
+    }
+  ]
+}
